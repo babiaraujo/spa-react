@@ -1,11 +1,11 @@
 # AWS Members on GitHub
 
-This is a Single Page Application (SPA) project developed in React. The goal is to list AWS organization members on GitHub by consuming data from the GitHub API.
+This is a Single Page Application (SPA) project developed in React. The goal is to list AWS organization members on GitHub by consuming data from the GitHub API
 
 ## Installation
-Make sure you have Node.js and npm installed on your machine.
+Make sure you have Node.js and npm installed on your machine
 
-Clone this repository to your local environment.
+Clone this repository to your local environment
 
 Navigate to your project directory and run the following command to install the dependencies:
 
