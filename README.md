@@ -25,7 +25,7 @@ Access the application in your browser using the following URL:
 
 http://localhost:3000
 
-You will see a list of AWS organization members on GitHub.
+You will see a list of AWS organization members on GitHub
 
 ### Project Structure
 public: Contains the main HTML file (index.html) and other static files such as favicon and manifest.
